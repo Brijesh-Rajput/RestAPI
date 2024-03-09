@@ -1,5 +1,5 @@
 # RestAPI
-My first Spring Boot Rest Api. 
+My first Spring Boot RESTful API. 
 
 This is a Project in Which I've Completed this below Task:- 
 
